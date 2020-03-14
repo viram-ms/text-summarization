@@ -1,8 +1,8 @@
-#Text Summarization
+# Text Summarization
 
 A Simple Natural Language based approach
 
-##Steps To Performed:
+## Steps To Performed:
 
 1. Take Sample Paragraph
 2. Tokenization
