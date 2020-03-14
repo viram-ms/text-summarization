@@ -2,7 +2,7 @@
 
 A Simple Natural Language based approach
 
-## Steps To Performed:
+## Steps Performed:
 
 1. Take Sample Paragraph
 2. Tokenization
